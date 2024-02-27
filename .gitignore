@@ -1,2 +1,8 @@
 .DS_Store
 node_modules
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore vscode folder
+.vscode/
